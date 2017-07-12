@@ -1,0 +1,7 @@
+{"ns:bundle": {
+     "xmlns:ns": "http://namespace/1",
+     "node": {"subNode": [
+          {"value": "Hello"},
+          {"value": "World!"}
+     ]}
+}}
